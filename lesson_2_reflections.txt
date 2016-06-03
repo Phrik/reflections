@@ -1,3 +1,5 @@
 1) Creates a .get directory
 2) Dont really know how to explain it, dont wanna think about it
-
+3) U go adding and adding til u see that the next thing that u modificated does't go in the same logical change :D
+4) With names its easier to remember what diference its between one version and the other
+5) Mergin by git it's easier and faster, but doing it manually allows u to decide exactly what to do
